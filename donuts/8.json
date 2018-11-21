@@ -3,5 +3,7 @@
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/8.json",
     "name": "Cider Mill Cinnamon Sugar",
     "calories": 222,
-    "extras": ["cinnamon", "sugar"]
+    "extras": ["cinnamon", "sugar"],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d8.jpg",
+    "photo_attribution": "https://commons.wikimedia.org/wiki/File:Bunyol_de_carabassa.jpg"
 }

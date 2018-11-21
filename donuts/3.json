@@ -3,5 +3,7 @@
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/3.json",
     "name": "Boston Cream",
     "calories": 300,
-    "extras": ["chocolate icing", "cream filling"]
+    "extras": ["chocolate icing", "cream filling"],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d3.jpg",
+    "photo_attribution": "https://commons.wikimedia.org/wiki/File:DD-Boston-Cream-Donut.jpg"
 }

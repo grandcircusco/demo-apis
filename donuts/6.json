@@ -3,5 +3,7 @@
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/6.json",
     "name": "Cake",
     "calories": 340,
-    "extras": []
+    "extras": [],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d6.jpg",
+    "photo_attribution": "https://commons.wikimedia.org/wiki/File:Entenmann-Cake-Donut.jpg"
 }
