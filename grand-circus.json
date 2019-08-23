@@ -1,0 +1,44 @@
+{
+    "organization": "Grand Circus",
+    "rooms": [
+        {
+            "name": "Sun",
+            "level": 3
+        },
+        {
+            "name": "Green",
+            "level": 3
+        },
+        {
+            "name": "Balcony",
+            "level": 4
+        }
+    ],
+    "ceo": {
+        "firstName": "Damien",
+        "lastName": "Rocchi"
+    },
+    "languages": [
+        {
+            "name": "Java",
+            "creator": {
+                "firstName": "James",
+                "lastName": "Gosling"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "creator": {
+                "firstName": "Brendan",
+                "lastName": "Eich"
+            }
+        },
+        {
+            "name": "C#",
+            "creator": {
+                "firstName": "Anders",
+                "lastName": "Hejlsberg"
+            }
+        }
+    ]
+}

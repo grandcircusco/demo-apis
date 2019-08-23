@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Mercury",
+        "colors": [
+            "gray"
+        ],
+        "million-miles-from-sun": {
+            "min": 29,
+            "average": 35,
+            "max": 43
+        }
+    },
+    {
+        "name": "Venus",
+        "colors": [
+            "pale yellow"
+        ],
+        "million-miles-from-sun": {
+            "min": 66,
+            "average": 67,
+            "max": 68
+        }
+    },
+    {
+        "name": "Earth",
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "million-miles-from-sun": {
+            "min": 91,
+            "average": 93,
+            "max": 94
+        }
+    },
+    {
+        "name": "Mars",
+        "colors": [
+            "reddish brown",
+            "white"
+        ],
+        "million-miles-from-sun": {
+            "min": 127,
+            "average": 142,
+            "max": 155
+        }
+    }
+]
