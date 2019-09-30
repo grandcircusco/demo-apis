@@ -1,0 +1,6 @@
+[
+    { "title": "Cat", "image": "https://grandcircusco.github.io/demo-apis/pets/images/cat.png" },
+    { "title": "Dog", "image": "https://grandcircusco.github.io/demo-apis/pets/images/dog.png" },
+    { "title": "Bunny", "image": "https://grandcircusco.github.io/demo-apis/pets/images/rabbit.png" },
+    { "title": "Parrot", "image": "https://grandcircusco.github.io/demo-apis/pets/images/parrot.png" }
+]
