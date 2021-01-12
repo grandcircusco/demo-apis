@@ -3,5 +3,7 @@
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/2.json",
     "name": "Chocolate Glazed",
     "calories": 340,
-    "extras": ["chocolate", "sugar glaze"]
+    "extras": ["chocolate", "sugar glaze"],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d2.jpg",
+    "photo_attribution": "https://commons.wikimedia.org/wiki/File:Chocolate-glazed_doughnut_(1330895).jpg"
 }
