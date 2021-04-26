@@ -11,7 +11,7 @@
   { "firstName": "Tim", "lastName": "Berners-Lee", "innovation": "invented the \"web\": HTML & HTTP", "year": 1993 },
   { "firstName": "James", "lastName": "Gosling", "innovation": "invented Java", "year": 1995 },
   { "firstName": "Brendan", "lastName": "Eich", "innovation": "invented JavaScript", "year": 1995 },
-  { "firstName": "Anders", "lastName": "Hejlsberg", "innovation": "invented React", "year": 2000 },
+  { "firstName": "Anders", "lastName": "Hejlsberg", "innovation": "invented C#", "year": 2000 },
   { "firstName": "John", "lastName": "Resig", "innovation": "invented jQuery", "year": 2006 },
   { "firstName": "Eliot", "lastName": "Horowitz", "innovation": "invented MongoDB", "year": 2007 },
   { "firstName": "Dwight", "lastName": "Merriman", "innovation": "invented MongoDB", "year": 2007 },
