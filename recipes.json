@@ -1,0 +1,27 @@
+{
+    "title": "Recipes",
+    "count": 4,
+    "recipes": [
+        {
+            "name": "Peanut Butter & Jelly Sandwich",
+            "contributor": "Albert Einstein",
+            "ingredients": [ "2 slices bread", "peanut butter, to taste", "jelly, to taste" ],
+            "directions": "<p>Lay out two slices of bread. Use a knife to spread peanut butter to cover one slice. Spread jelly to cover the other slice. Lay first slice on top of the second slice, so that the peanut butter and jelly are between the two slices.</p>"
+        }, {
+            "name": "Ice Water",
+            "contributor": "Werner von Braun, a rocket scientist",
+            "ingredients": [ "ice cubes", "water" ],
+            "directions": "<p>Add as many ice cubes as desired to a glass. Poor clean water on top of the ice to fill the glass.</p>"
+        }, {
+            "name": "Hot Tea",
+            "contributor": "Leonardo Da Vinci",
+            "ingredients": [ "1 tea bag", "8-12 oz hot water" ],
+            "directions": "<ol><li>Heat water to near boiling.</li><li>Open tea bag wrapper and place the bag in a teacup or mug with the string hanging out over the edge.</li><li>Carefully pour hot water into the cup.</li><li>Let sit for 5 minutes before removing the tea bag.</li></ol>"
+        }, {
+            "name": "S'more",
+            "contributor": "Ham Porter",
+            "ingredients": [ "1 graham cracker, divided in two", "chocolate", "1 marshmallow" ],
+            "directions": "<p>First, you take the graham. You stick the chocolate on the graham. Then, you roast the mallow. When the mallow's flaming, you stick it on the chocolate. Then you cover it with the other end. Then, you scarf.</p>"
+        }
+    ]
+}

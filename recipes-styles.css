@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  padding: 0 80px;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 300%;
+}
+
+article {
+  margin: 0 0 30px;
+  border-bottom: 3px dotted silver;
+  padding: 0 0 5px;
+}
+article:first-child {
+  border-top: 3px dotted silver;
+}
+article h2 {
+  font-size: 140%;
+}
+article h3 {
+  font-size: 110%;
+}
+
+.contributor {
+  color: gray;
+  margin: 8px 0 5px;
+  padding-left: .5em;
+}
+.contributor::before {
+  content: 'by '
+}
+
+.directions p {
+  margin: 13px 0;
+}
