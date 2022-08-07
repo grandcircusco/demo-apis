@@ -1,7 +1,9 @@
 {
     "id": 7,
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/7.json",
-    "name": "Cider Mill Plain",
-    "calories": 246,
-    "extras": []
+    "name": "Jelly Filled",
+    "calories": 289,
+    "extras": [ "Jelly", "Powdered Sugar" ],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d7.jpg",
+    "photo_attribution": "https://commons.wikimedia.org/wiki/File:Powdered_Sugar_Jelly_Doughnut.jpg"
 }

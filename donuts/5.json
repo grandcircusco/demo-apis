@@ -3,5 +3,7 @@
     "ref": "https://grandcircusco.github.io/demo-apis/donuts/5.json",
     "name": "Cream Cheese Filled",
     "calories": 320,
-    "extras": ["cream cheese filling"]
+    "extras": ["cream cheese filling"],
+    "photo": "https://grandcircusco.github.io/demo-apis/donuts/images/d5.jpg",
+    "photo_attribution": "https://www.rawpixel.com/image/6064100/free-public-domain-cc0-photo"
 }
