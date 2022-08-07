@@ -1,6 +1,7 @@
 [
     {
         "name": "Mercury",
+        "diameter": 3031.9,
         "colors": [
             "gray"
         ],
@@ -12,6 +13,7 @@
     },
     {
         "name": "Venus",
+        "diameter": 7520.8,
         "colors": [
             "pale yellow"
         ],
@@ -23,6 +25,7 @@
     },
     {
         "name": "Earth",
+        "diameter": 7917.5,
         "colors": [
             "blue",
             "white"
@@ -35,6 +38,7 @@
     },
     {
         "name": "Mars",
+        "diameter": 4212.3,
         "colors": [
             "reddish brown",
             "white"
