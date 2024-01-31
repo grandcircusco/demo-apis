@@ -48,5 +48,57 @@
             "average": 142,
             "max": 155
         }
+    },
+    {
+        "name": "Jupiter",
+        "diameter": 86881,
+        "colors": [
+            "orange",
+            "white",
+            "brown"
+        ],
+        "million-miles-from-sun": {
+            "min": 483,
+            "average": 489,
+            "max": 503
+        }
+    },
+    {
+        "name": "Saturn",
+        "diameter": 72367,
+        "colors": [
+            "pale yellow",
+            "white",
+            "golden brown"
+        ],
+        "million-miles-from-sun": {
+            "min": 886,
+            "average": 905,
+            "max": 932
+        }
+    },
+    {
+        "name": "Uranus",
+        "diameter": 31518,
+        "colors": [
+            "pale blue",
+            "green",
+            "white"
+        ],
+        "million-miles-from-sun": {
+            "min": 1791,
+            "average": 1893,
+            "max": 2007
+        }
+    },
+    {
+        "name": "Neptune",
+        "diameter": 30599,
+        "colors": ["deep blue"],
+        "million-miles-from-sun": {
+            "min": 2762,
+            "average": 2810,
+            "max": 2832
+        }
     }
 ]
