@@ -5,6 +5,7 @@
         "colors": [
             "gray"
         ],
+        "colorCode": "#808080",
         "million-miles-from-sun": {
             "min": 29,
             "average": 35,
@@ -17,6 +18,7 @@
         "colors": [
             "pale yellow"
         ],
+        "colorCode": "#FFFFE0",
         "million-miles-from-sun": {
             "min": 66,
             "average": 67,
@@ -30,6 +32,7 @@
             "blue",
             "white"
         ],
+        "colorCode": "#007FFF",
         "million-miles-from-sun": {
             "min": 91,
             "average": 93,
@@ -43,6 +46,7 @@
             "reddish brown",
             "white"
         ],
+        "colorCode": "#A52A2A",
         "million-miles-from-sun": {
             "min": 127,
             "average": 142,
@@ -57,6 +61,7 @@
             "white",
             "brown"
         ],
+        "colorCode": "#FFA500",
         "million-miles-from-sun": {
             "min": 483,
             "average": 489,
@@ -71,6 +76,7 @@
             "white",
             "golden brown"
         ],
+        "colorCode": "#FAFAD2",
         "million-miles-from-sun": {
             "min": 886,
             "average": 905,
@@ -85,6 +91,7 @@
             "green",
             "white"
         ],
+        "colorCode": "#87CEEB",
         "million-miles-from-sun": {
             "min": 1791,
             "average": 1893,
@@ -94,7 +101,10 @@
     {
         "name": "Neptune",
         "diameter": 30599,
-        "colors": ["deep blue"],
+        "colors": [
+            "deep blue"
+        ],
+        "colorCode": "#00008B",
         "million-miles-from-sun": {
             "min": 2762,
             "average": 2810,
